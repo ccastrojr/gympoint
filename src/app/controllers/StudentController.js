@@ -70,7 +70,7 @@ class StudentController {
          return res.status(401).json({ error: 'Fields validation invalid.' });
       }
 
-      const student = await Student.findByPk(req.params.id);
+      const student = await Student.findByPk(req.params.studentId);
 
       if (req.body.email && req.body.email !== student.email) {
          const studentExists = await Student.findOne({
