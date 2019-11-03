@@ -26,8 +26,8 @@ Some more funcionalities will be describe below.
     
   * Application
     - Send e-mails
-    - Validation fields
-    - Validation datas
+    - Field validations
+    - Data validations
     - Create queues to improve performance in sending e-mails
 
 # Used technologies:
