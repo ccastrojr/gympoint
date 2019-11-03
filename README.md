@@ -32,6 +32,8 @@ Some more funcionalities will be describe below.
 
 # Used technologies:
 
+Docker to containerization
+
 * Dependecies:
   - Express (Used to build the wep application)
   - JSONWebToken (Generate Token)
