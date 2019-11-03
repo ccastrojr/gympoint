@@ -13,8 +13,8 @@ Some more funcionalities will be describe below.
 
 # Functionalities
   * Admin
-    - Create users (admin) and login to application (here I used a jwt to authentication)
-    - Create students (only for administrator users)
+    - Create users and login to application (here I used a jwt to authentication)
+    - Create students
     - List, Update and Delete students
     - Create matriculation for a student
     - List, Update and Delete matriculation
