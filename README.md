@@ -11,6 +11,8 @@ Some more funcionalities will be describe below.
 
 * To inicialize the project with your machine, just download and run 'yarn' or 'npm install' in the project path to linking all dependencies.
 
+* Use 'yarn dev' to run the project. 
+
 # Functionalities
   * Admin
     - Create users and login to application (here I used a jwt to authentication)
